@@ -1,0 +1,26 @@
+{
+  "name": "ai-email-router",
+  "version": "1.0.6",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["email", "routing", "AI", "classification"],
+  "homepage": "https://github.com/irahulvrma/ai-email-router",
+  "author": "Rahul verma (Rv) (https://github.com/irahulvrma)",
+  "repository": "irahulvrma/ai-email-router",
+  "bugs": {
+    "url": "https://github.com/irahulvrma/ai-email-router/issues"
+  },
+  "license": "MIT",
+  "description": "A package that routes emails to the appropriate department using AI-based classification.",
+  "organization": "Rvalllplay", 
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^6.9.15"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

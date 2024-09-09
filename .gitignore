@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+
+# npm package lock files
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Coverage reports
+coverage/
+
+# Build output
+dist/
+build/
+
+# Miscellaneous
+*.swp
+*.swo
+*.tmp
+*.bak
+*.tmp
+*.orig
